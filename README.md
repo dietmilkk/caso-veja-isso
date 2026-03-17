@@ -1,1 +1,1 @@
-# caso-veja-isso
+#### Caso veja este repositório, significa que infelizmente ainda não lancei nenhum projeto de programação em C, pois ainda estou no inicio de meus estudos, porém é só questão de um pouco de tempo que em breve publicarei alguns códigos no qual estou trabalhando.
